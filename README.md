@@ -1,8 +1,8 @@
 # FacebookDB_design
 A group project to simulate facebook database design
 ## ER diagram 
-##### main entities such that (Login ,User, 
-Page ,Post ,Friend ,Chat).
+##### main entities such that 
+(Login ,User, Page ,Post ,Friend ,Chat).
 ##### These entities has relations between each other:
 <ul>
   <li> Login has a Strong relation with User </li>
