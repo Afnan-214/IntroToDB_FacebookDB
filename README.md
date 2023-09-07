@@ -25,4 +25,5 @@ A group project to simulate facebook database design
   <li>Inserting data Into database tables </li>
   <li>Using sql join statements to extract final reports </li>
 </ol>
+
 ## DataBase sql file 
